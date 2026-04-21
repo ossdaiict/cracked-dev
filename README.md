@@ -35,4 +35,4 @@ Thanks to all the amazing people who have contributed to this repository!
 
 ---
 
-✨ *If you found this helpful, consider contributing or sharing with others. May the power of open source be with you!* 🚀
+ *If you found this helpful, consider contributing or sharing with others. May the power of open source be with you!* 
