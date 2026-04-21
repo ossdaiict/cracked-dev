@@ -17,7 +17,15 @@ A comprehensive collection of learning materials curated by **[Dhruv Jain](https
 ---
 
 ## Beginner Friendly
+---
 
+## Git & Open Source
+
+| Resource | Description |
+|----------|-------------|
+| [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) | A Specification For Writing Standardized, Meaningful Commit Messages |
+
+---
 | Channel | Description |
 |---------|-------------|
 | [Net Ninja](https://www.youtube.com/@NetNinja) | Short, precise video explanations across many technologies |
