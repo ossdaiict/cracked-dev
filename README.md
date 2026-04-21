@@ -111,8 +111,7 @@ A comprehensive collection of learning materials curated by **[Dhruv Jain](https
 Thanks to all the amazing people who have contributed to this repository!  
 
 <a href="https://github.com/ossdaiict/cracked-dev/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ossdaiict/cracked-dev" />
-</a>
+<img src="https://contrib.rocks/image?repo=ossdaiict/cracked-dev&v=2026" /></a>
 
 ---
 
