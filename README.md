@@ -5,7 +5,7 @@
 If you're beginning your journey into development, here’s a curated set of resources to help you learn faster, build better, and stay consistent.
 
 ---
-
+# Important Links:
 ## 📚 Digital Library for Dev Resources
 
 A comprehensive collection of learning materials curated by **[Dhruv Jain](https://github.com/dhruvkjain) (GDG Core 24–25)**:
