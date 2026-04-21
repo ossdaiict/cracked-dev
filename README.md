@@ -8,9 +8,8 @@ If you're beginning your journey into development, here’s a curated set of res
 
 ## 📚 Digital Library for Dev Resources
 
-A comprehensive collection of learning materials curated by **Dhruv Jain (GDG Core 24–25)**:
-
-🔗 https://dhruvkjain.github.io/pkms/what_im_learning
+A comprehensive collection of learning materials curated by **[Dhruv Jain](https://github.com/dhruvkjain) (GDG Core 24–25)**:
+ https://dhruvkjain.github.io/pkms/what_im_learning
 
 ---
 
